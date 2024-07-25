@@ -9,10 +9,10 @@
 * **Armas:** O personagem está segurando uma arma de fogo, o que indica que o jogo se concentra em combate armado.
 
 ## NÃO SABE?
-- Entendemos que para manipular arquivos em `HTML`, `CSS` e outras linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos subsidios:
+- Entendemos que para manipular arquivos em `HTML`, `CSS` e outras linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos alguns cursos:
 * [CURSO DE HTML E CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
 * [CURSO DE JAVASCRIPT](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
-* [ACESSE A ENGINE](https://www.construct.net/en/register)
+* [CURSO DE CONSTRUCT](https://github.com/VILHALVA/CURSO-DE-CONSTRUCT)
 * [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:
