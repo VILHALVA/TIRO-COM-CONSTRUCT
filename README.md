@@ -9,20 +9,12 @@
 * **Armas:** O personagem está segurando uma arma de fogo, o que indica que o jogo se concentra em combate armado.
 
 ## EXECUTANDO O PROJETO:
-1. **Instalando as Depêndencias:**
-   - Para instalar as dependências listadas no arquivo "package.json", você pode usar o comando `npm install`. Certifique-se de estar no diretório `./CODIGO`. O npm irá ler o arquivo "package.json" e instalar todas as dependências listadas nele. 
-
+   - Para subir o servidor, navegue até o diretório `./CODIGO`, e digite o seguinte comando no Terminal/CMD:
    ```bash
-   npm install
+   node APP.js
    ```
 
-2. **Executando o Jogo:**
-   - Para subir o servidor, digite o seguinte comando no Terminal/CMD:
-   ```bash
-   npm start
-   ```
-
-   - Acesse o JOGO no navegador visitando [http://localhost:3000](http://localhost:3000).
+   - Acesse o JOGO no navegador visitando [http://localhost:8000](http://localhost:8000).
 
 ## NÃO SABE?
 - Entendemos que para manipular arquivos em `HTML`, `CSS` e outras linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos alguns cursos:
